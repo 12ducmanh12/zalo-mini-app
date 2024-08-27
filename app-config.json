@@ -1,0 +1,30 @@
+{
+  "app": {
+    "title": "ZMP ECOMMERCE STORE",
+    "headerColor": "",
+    "textColor": {
+      "light": "white",
+      "dark": "black"
+    },
+    "statusBarColor": "#EF1724",
+    "leftButton": "none",
+    "textAlign": "left",
+    "actionBarHidden": false,
+    "hideAndroidBottomNavigationBar": false,
+    "hideIOSSafeAreaBottom": false,
+    "selfControlLoading": false,
+    "statusBar": "normal"
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "pages": [],
+  "template": {
+    "primaryColor": "",
+    "searchBar": true,
+    "orderValue": "500000",
+    "oaIDtoOpenChat": "",
+    "shippingFee": "30000"
+  }
+}
